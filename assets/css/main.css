@@ -151,11 +151,12 @@ h5 a:hover {
   color: #000;
   padding: 10px;
   padding-bottom: 4px;
-  transition: all .4s ease;
+  /* transition: all .4s ease; */
 }
 
 .social-links li a:hover {
-  color: #000;
+  /* font-size: 45px; */
+  color: #6e007f;
 }
 
 .avatar {
